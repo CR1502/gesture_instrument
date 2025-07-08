@@ -152,8 +152,3 @@ gesture_instrument/
 - [FluidSynth](https://www.fluidsynth.org/)  
 - [OpenCV](https://opencv.org/)
 
----
-
-## 📄 License
-
-MIT License
