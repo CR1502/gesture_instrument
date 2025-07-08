@@ -51,7 +51,7 @@ This project requires a `.sf2` SoundFont file for instrument playback.
 
 We recommend **FluidR3_GM.sf2** (~148 MB):
 
-### ✅ Option 1: Download manually
+### Download manually
 
 Download from:  
 https://member.keymusician.com/Member/FluidR3_GM/
