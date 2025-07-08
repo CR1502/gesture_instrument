@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Instrument Selection Complete</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 40px;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 8px;
+            max-width: 500px;
+            margin: auto;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #2c3e50;
+        }
+        .instrument {
+            margin: 10px 0;
+            font-size: 18px;
+        }
+        .note {
+            margin-top: 20px;
+            font-style: italic;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>🎉 Instrument Selection Saved!</h2>
+        <p><strong>Left Hand:</strong> {{ left_name }}</p>
+        <p><strong>Right Hand:</strong> {{ right_name }}</p>
+        <p><em>You can now run the gesture instrument.</em></p>
+    </div>
+</body>
+</html>

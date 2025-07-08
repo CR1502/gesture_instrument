@@ -1,0 +1,14 @@
+{
+  "chords": {
+    "Fist": [],
+    "1 Finger": ["C", "E", "G"],
+    "2 Fingers": ["D", "F", "A"],
+    "3 Fingers": ["E", "G", "B"],
+    "4 Fingers": ["F", "A", "C"],
+    "Open Palm": ["G", "B", "D"]
+  },
+  "instruments": {
+    "Left": 0,
+    "Right": 24
+  }
+}
